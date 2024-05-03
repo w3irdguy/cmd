@@ -8,7 +8,7 @@ wget https://raw.githubusercontent.com/z4kc/cmd/main/cmd.sh ; source cmd.sh
 
 This programm only ends if you close the terminal window.
 
-# Commands i added
+# CMDShell commands
 
 	/? - Show the help of specific command
 	quit(custom command) - Exit from console
