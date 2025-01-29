@@ -1,7 +1,7 @@
 # CMD(Command Prompt) with shell script
 
 ```console
-wget https://raw.githubusercontent.com/z4kc/cmd/main/cmd.sh ; source cmd.sh
+wget https://raw.githubusercontent.com/w3irdguy/cmd/refs/heads/main/cmd.sh ; source cmd.sh
 ```
 
 # Issues
